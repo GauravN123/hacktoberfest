@@ -1,8 +1,17 @@
+#### Name: [Gaurav ](https://github.com/GauravN123)
+
+- Place: Bhubaneswar , Odisha , India
+- Bio: I am a Full stack Developer with a keen interest in building stuff| Data Analyst 
+- GitHub: [GauravN123](https://github.com/GauravN123)
+
+
 #### Name: [3mYouOL](https://github.com/3mYouOL)
 
 - Place: Iloilo, Philippines
 - Bio: Fullstack Developer | Mobile Game Developer | ML/AI Enthusiast
 - GitHub: [3mYouOL](https://github.com/3mYouOL)
+
+
 
 #### Name: [TANYA KUMARI](https://github.com/07tAnYa)
 
